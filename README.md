@@ -11,4 +11,4 @@ This is a simple command-line implementation of the classic Rock-Paper-Scissors 
    - Scissors beats Paper
    - Paper beats Rock
 4. The game will display the result of the round and the current score.
-5. You can play multiple rounds until by looping the playRound() method.
+5. You can play multiple rounds by looping the playRound() method.
